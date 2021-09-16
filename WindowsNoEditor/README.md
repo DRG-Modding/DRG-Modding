@@ -1,0 +1,1 @@
+For DRGPackerV2, the _parent_ directory of WindowsNoEditor should be selected as the packaging target in UE Editor.

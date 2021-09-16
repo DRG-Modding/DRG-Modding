@@ -1,0 +1,18 @@
+[submodule "Header-Dumps"]
+	path = Header-Dumps
+	url = https://github.com/DRG-Modding/Header-Dumps.git
+[submodule "Useful-Scripts"]
+	path = Useful-Scripts
+	url = https://github.com/DRG-Modding/Useful-Scripts.git
+[submodule "Blueprint-Functions"]
+	path = Blueprint-Functions
+	url = https://github.com/DRG-Modding/Blueprint-Functions.git
+[submodule "Guides"]
+	path = Guides
+	url = https://github.com/DRG-Modding/Guides.git
+[submodule "Reflected-Header-Classes"]
+	path = Reflected-Header-Classes
+	url = https://github.com/DRG-Modding/Reflected-Header-Classes
+[submodule "Frameworks"]
+	path = Frameworks
+	url = https://github.com/DRG-Modding/Frameworks
