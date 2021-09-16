@@ -1,6 +1,6 @@
 This repository includes every other DRG-Modding organization repository as a submodule.
 
-#Submodules
+# Submodules
 ## Cloning
 To clone all submodules as well, use `git clone --recurse-submodules`
 
